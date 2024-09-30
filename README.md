@@ -7,18 +7,18 @@ All the samples were designed to help enterprise developers who are new to gener
 ## Learning Objectvies
 
 - **Prompt Engineering**: Examples of basic to advanced prompt creation.
-    1.Prompts_Basic.ipynb
-    2.Prompts_Parameters.ipynb
-    3.Prompts_More.ipynb
+    - 1.Prompts_Basic.ipynb
+    - 2.Prompts_Parameters.ipynb
+    - 3.Prompts_More.ipynb
 - **Word Embeddings**: Techniques for generating and utilizing word embeddings.
-    4.Word_Ebeddings.ipynb
+    - 4.Word_Ebeddings.ipynb
 - **Retrieval-Augmented Generation (RAG)**: Implementing RAG patterns.
-    5.RAG.ipynb
-    6.LoadData.ipynb
+    - 5.RAG.ipynb
+    - 6.LoadData.ipynb
 - **Local LLM Model**: Implementing RAG patterns locally downloaded LLM.
-    7.Local-Llama2-RAG.ipynb
+    - 7.Local-Llama2-RAG.ipynb
 - **Use MongoDB for embedding**: MongoDb Embedding
-    8.MongoDb_Embeddings.ipynb
+    - 8.MongoDb_Embeddings.ipynb
 
 ## Getting Started
 
@@ -48,11 +48,3 @@ All the samples were designed to help enterprise developers who are new to gener
     jupyter notebook
     ```
 2. Open the notebook of your choice and follow the instructions.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
